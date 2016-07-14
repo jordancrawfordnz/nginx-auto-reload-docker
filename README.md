@@ -2,7 +2,7 @@
 
 [View on BitBucket](https://bitbucket.org/jordancrawfordnz/nginx-auto-reload)
 
----
+--- 
 
 ### NGINX Auto Reload
 
