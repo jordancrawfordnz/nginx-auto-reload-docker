@@ -1,4 +1,4 @@
-[View on GitHub](https://github.com/jordancrawfordnz/nginx-auto-reload)
+[View on GitHub](https://github.com/jordancrawfordnz/nginx-auto-reload-docker)
 
 [View on Docker Hub](https://hub.docker.com/r/jordancrawford/nginx-auto-reload/)
 
