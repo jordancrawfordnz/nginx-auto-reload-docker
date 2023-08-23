@@ -1,6 +1,4 @@
-[View on GitHub](https://github.com/jordancrawfordnz/nginx-auto-reload-docker)
-
-[View on Docker Hub](https://hub.docker.com/r/jordancrawford/nginx-auto-reload/)
+**This repo is archived.** It's not being maintained and may no longer work. I recommend looking into more native approaches to reload configuration or another tool which can support auto-reloading.
 
 --- 
 
